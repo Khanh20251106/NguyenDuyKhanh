@@ -110,11 +110,31 @@
 </section>
 
 <section id="hinhanh">
-  <h2>Hình ảnh mô hình chống rác thải nhựa</h2>
-  <p class="placeholder">
-    Khu vực này dùng để chèn hình ảnh: lễ phát động, mô hình chợ dân sinh không rác thải nhựa, 
-    trường học, cơ sở y tế, siêu thị hưởng ứng phong trào tại tỉnh Vĩnh Long.
-  </p>
+  <h2>Hình ảnh hoạt động & mô hình chống rác thải nhựa</h2>
+  <p>Dưới đây là một số hình ảnh minh họa các hoạt động truyền thông, tập huấn và mô hình phòng, chống rác thải nhựa tại tỉnh Vĩnh Long (trích từ tài liệu, kế hoạch triển khai phong trào).</p>
+
+  <h3>1. Lễ phát động & truyền thông</h3>
+  <div class="gallery">
+    <img src="images/le-phat-dong.jpg" alt="Lễ phát động phong trào chống rác thải nhựa tại Vĩnh Long">
+    <img src="images/banner-truyen-thong.jpg" alt="Banner, pano tuyên truyền chống rác thải nhựa">
+  </div>
+
+  <h3>2. Hoạt động tập huấn, nâng cao năng lực</h3>
+  <div class="gallery">
+    <img src="images/tap-huan-cap-huyen.jpg" alt="Lớp tập huấn chống rác thải nhựa cấp huyện">
+    <img src="images/tap-huan-cap-tinh.jpg" alt="Lớp tập huấn chống rác thải nhựa cấp tỉnh">
+  </div>
+
+  <h3>3. Các mô hình tiêu biểu</h3>
+  <div class="gallery">
+    <img src="images/cho-dan-sinh.jpg" alt="Mô hình chợ dân sinh nói không với rác thải nhựa">
+    <img src="images/truong-hoc.jpg" alt="Mô hình ngôi nhà thu gom rác thải nhựa trong trường học">
+    <img src="images/co-so-y-te.jpg" alt="Cơ sở y tế giảm thiểu rác thải nhựa">
+    <img src="images/sieu-thi.jpg" alt="Ngày không túi nilon tại siêu thị">
+    <img src="images/du-lich.jpg" alt="Cơ sở du lịch cam kết giảm thiểu rác thải nhựa">
+  </div>
+
+  <p style="font-style: italic; color:#666;">Ghi chú: Các hình ảnh được trích từ tài liệu kế hoạch và báo cáo triển khai phong trào “Chống rác thải nhựa” trên địa bàn tỉnh Vĩnh Long.</p>
 </section>
 
 <section id="tailieu">
